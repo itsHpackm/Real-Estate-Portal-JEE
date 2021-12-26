@@ -6,3 +6,8 @@ I developed my application that it is a website based on J2EE technology and thi
 
 
 Our platform is dedicated to people who want to rent, buy or advertise a real estate, It is still a solution for an availability of 24/7, far beyond the opening of an office. It is also a service to its customers, that this buyers or sellers or lessors. Finally, we find, there, the usual advantages of any portal, like to retain its customers, inform it, relaunch it, develop it, etc
+
+
+# server 
+
+to run this app we used apache tomcat server 
